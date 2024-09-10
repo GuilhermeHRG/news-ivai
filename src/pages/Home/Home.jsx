@@ -20,7 +20,7 @@ export default function Home() {
       <main className="flex-1">
         <section className="relative">
           <div className="w-full h-[400px]">
-            <img src="../assets/bg.svg" alt="Background" className="w-full h-full object-cover" />
+            <img src="../assets/bg.jpg" alt="Background" className="w-full h-full object-cover" />
           </div>
           <div className="absolute inset-0 flex flex-col items-start justify-center text-white text-left px-4">
             <h2 className="text-4xl font-bold md:w-1/2">
